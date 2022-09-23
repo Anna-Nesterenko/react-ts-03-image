@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ts-03-image/static/css/main.ee59dfad.css",
+    "main.js": "/react-ts-03-image/static/js/main.48ad7c83.js",
+    "index.html": "/react-ts-03-image/index.html",
+    "main.ee59dfad.css.map": "/react-ts-03-image/static/css/main.ee59dfad.css.map",
+    "main.48ad7c83.js.map": "/react-ts-03-image/static/js/main.48ad7c83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee59dfad.css",
+    "static/js/main.48ad7c83.js"
+  ]
+}
